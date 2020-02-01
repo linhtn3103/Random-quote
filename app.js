@@ -1,6 +1,5 @@
-/*
-  Code by Gabriel Nunes
-*/
+
+ 
 
 function inIframe() {
   try {
